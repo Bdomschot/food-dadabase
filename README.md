@@ -15,8 +15,7 @@
   recipes while bringing you a laugh along the way. 
 
   ## Links
-  - [Github](https://github.com/goantonioUW/food-dadabase)
-  - [Heroku](https://food-dad-a-base.herokuapp.com/)
+   - [Deployed Site](https://food-dad-a-base.herokuapp.com/)
   
   ## User Story
   AS A user, I want to be able to look up recipies and be able to save my favorites for later and have a laugh while doing so. 
